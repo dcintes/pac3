@@ -214,7 +214,7 @@ section.uneixte form {
     flex-direction: column;
 }
 
-section.uneixte form input[type=text] {
+section.uneixte form input[placeholder] {
     height: 2.4em;
     margin-bottom: 1em;
     font-size: 1.1rem;
